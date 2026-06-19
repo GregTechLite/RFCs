@@ -17,7 +17,7 @@ ingredients.
 ## Chemistry Processing
 For *Diphenyl Carbonate* chain, please see the **Chemistry Processing** part of [BPA Polycarbonate Chain](/Chemistry/BPA%20Polycarbonate%20Chain.md).
 
-1. C3H6 + CO + H2O -> C4H8O2`
+1. C3H6 + CO + H2O -> C4H8O2
 > 1B **Propene** + 1B **Carbon Monoxide** + **1B Water** --[**Chemical Reactor**, 480 EU/t, 9s]--> 1B **Isobutyric Acid**
 2. 2C4H8O2 + C4H6O3 -> C8H14O3 + 2C2H4O2
 > 2B **Isobutyric Acid** + 1B **Acetic Anhydride** --[**Chemical Reactor**, 1920 EU/t, 3s]--> 1B **Isobutyric Anhydride** + 2B **Acetic Acid**

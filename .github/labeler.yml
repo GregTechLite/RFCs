@@ -14,9 +14,9 @@
   - changed-files:
     - any-glob-to-any-file: "Mineralogy/**"
 
-"scope: qol":
+"scope: gameplay":
   - changed-files:
-    - any-glob-to-any-file: "QoL/**"
+    - any-glob-to-any-file: "Gameplay/**"
 
 "scope: zoology":
   - changed-files:

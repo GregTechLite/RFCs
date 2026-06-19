@@ -1,0 +1,23 @@
+"scope: agronomy":
+  - changed-files:
+    - any-glob-to-any-file: "Agronomy/**"
+
+"scope: chemistry":
+  - changed-files:
+    - any-glob-to-any-file: "Chemistry/**"
+
+"scope: metallurgy":
+  - changed-files:
+    - any-glob-to-any-file: "Metallurgy/**"
+
+"scope: mineralogy":
+  - changed-files:
+    - any-glob-to-any-file: "Mineralogy/**"
+
+"scope: qol":
+  - changed-files:
+    - any-glob-to-any-file: "QoL/**"
+
+"scope: zoology":
+  - changed-files:
+    - any-glob-to-any-file: "Zoology/**"
